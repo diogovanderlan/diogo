@@ -12,18 +12,16 @@
     <div>
         <nav class="navbar navbar navbar-dark bg-dark">
             <div class="container-fluid">
-              <a class="navbar-brand">Diogo Vanderlan</a>
+              <a class="navbar-brand" href="index.php">Diogo Vanderlan</a>
               <form class="d-flex">
-                <button class="btn btn-outline-secondary" type="submit" href="/contato">Contato</button>
+                <a href="contato.php" class="btn btn-outline-secondary btn-lg " tabindex="-1" role="button" aria-disabled="true">Contato</a>
               </form>
             </div>
           </nav>
     </div>
-    <h1>ola</h1>
     
 
-    
-</body>
+
+
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-</html>
